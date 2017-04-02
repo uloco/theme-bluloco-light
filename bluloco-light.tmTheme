@@ -41,7 +41,7 @@
 				<key>invisibles</key>
 				<string>#545862</string>
 				<key>lineHighlight</key>
-				<string>#54586255</string>
+				<string>#363b43</string>
 				<key>selection</key>
 				<string>#3e4451</string>
 			</dict>
@@ -107,17 +107,6 @@ punctuation.definition.string.begin.markdown, punctuation.definition.string.end.
 			<string>Keywords</string>
 			<key>scope</key>
 			<string>keyword, variable.language</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#10b1fe</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Primitive Type</string>
-			<key>scope</key>
-			<string>support.type.primitive</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
