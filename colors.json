@@ -15,7 +15,8 @@
     "attribute": "#ff936a",
     "tag": "#3691ff",
     "property": "#ce9887",
-    "selection": "#3e4451"
+    "selection": "#3e4451",
+    "invalid": "#fc2f52"
   },
   "light": {
     "bg": "#f9f9f9",
@@ -33,6 +34,7 @@
     "attribute": "#df631c",
     "tag": "#275fe4",
     "property": "#a05a48",
-    "selection": "#d2ecff"
+    "selection": "#d2ecff",
+    "invalid": "#fc2f52"
   }
 }
