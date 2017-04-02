@@ -1,4 +1,4 @@
-# bluloco-light-syntax theme
+# theme-bluloco-light theme
 
 ### Description
 A fancy but yet sophisticated light designer color scheme for the Atom Editor.
@@ -12,19 +12,19 @@ Here are a bunch of screenshots.
 I tested a long range of languages, these are just a few.
 
 ###### Javascript
-![js](https://raw.githubusercontent.com/uloco/bluloco-light-syntax/master/screenshots/js.png)
+![js](https://raw.githubusercontent.com/uloco/theme-bluloco-light/master/screenshots/js.png)
 
 ###### Typescript
-![ts](https://raw.githubusercontent.com/uloco/bluloco-light-syntax/master/screenshots/ts.png)
+![ts](https://raw.githubusercontent.com/uloco/theme-bluloco-light/master/screenshots/ts.png)
 
 ###### Python
-![py](https://raw.githubusercontent.com/uloco/bluloco-light-syntax/master/screenshots/py.png)
+![py](https://raw.githubusercontent.com/uloco/theme-bluloco-light/master/screenshots/py.png)
 
 ###### Ruby
-![rb](https://raw.githubusercontent.com/uloco/bluloco-light-syntax/master/screenshots/rb.png)
+![rb](https://raw.githubusercontent.com/uloco/theme-bluloco-light/master/screenshots/rb.png)
 
 ###### HTML
-![html](https://raw.githubusercontent.com/uloco/bluloco-light-syntax/master/screenshots/html.png)
+![html](https://raw.githubusercontent.com/uloco/theme-bluloco-light/master/screenshots/html.png)
 
 ###### CSS
-![css](https://raw.githubusercontent.com/uloco/bluloco-light-syntax/master/screenshots/css.png)
+![css](https://raw.githubusercontent.com/uloco/theme-bluloco-light/master/screenshots/css.png)
