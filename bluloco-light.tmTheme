@@ -21,9 +21,9 @@
 		<key>divider</key>
 		<string>#353b45</string>
 		<key>foreground</key>
-		<string>#545862</string>
+		<string>#a0a1a7</string>
 		<key>selectionBackground</key>
-		<string>#3e4451</string>
+		<string>#d2ecff</string>
 		<key>selectionForeground</key>
 		<string>#565c64</string>
 	</dict>
@@ -33,17 +33,17 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#282c34</string>
+				<string>#f9f9f9</string>
 				<key>caret</key>
-				<string>#ffcc00</string>
+				<string>#f31459</string>
 				<key>foreground</key>
-				<string>#abb2bf</string>
+				<string>#383a42</string>
 				<key>invisibles</key>
-				<string>#545862</string>
+				<string>#a0a1a7</string>
 				<key>lineHighlight</key>
-				<string>#363b43</string>
+				<string>#f1f1f1</string>
 				<key>selection</key>
-				<string>#3e4451</string>
+				<string>#d2ecff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -54,7 +54,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#abb2bf</string>
+				<string>#383a42</string>
 			</dict>
 		</dict>
 		<dict>
@@ -65,7 +65,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#545862</string>
+				<string>#a0a1a7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -88,7 +88,7 @@ punctuation.definition.string.begin.markdown, punctuation.definition.string.end.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#abb2bf</string>
+				<string>#383a42</string>
 			</dict>
 		</dict>
 		<dict>
@@ -110,7 +110,7 @@ punctuation.definition.string.begin.markdown, punctuation.definition.string.end.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#10b1fe</string>
+				<string>#0098dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -121,7 +121,7 @@ punctuation.definition.string.begin.markdown, punctuation.definition.string.end.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#abb2bf</string>
+				<string>#383a42</string>
 			</dict>
 		</dict>
 		<dict>
@@ -132,7 +132,7 @@ punctuation.definition.string.begin.markdown, punctuation.definition.string.end.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3fc56b</string>
+				<string>#23974a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -145,7 +145,7 @@ meta.class.inheritance, entity.other.inherited-class, entity.name.type</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff6480</string>
+				<string>#d52753</string>
 			</dict>
 		</dict>
 		<dict>
@@ -156,7 +156,7 @@ meta.class.inheritance, entity.other.inherited-class, entity.name.type</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3fc56b</string>
+				<string>#23974a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -168,7 +168,7 @@ constant.language</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#10b1fe</string>
+				<string>#0098dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -179,7 +179,7 @@ constant.language</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3fc56b</string>
+				<string>#23974a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -191,7 +191,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f9c859</string>
+				<string>#c5a332</string>
 			</dict>
 		</dict>
 		<dict>
@@ -202,7 +202,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff78f8</string>
+				<string>#ce33c0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -213,7 +213,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff78f8</string>
+				<string>#ce33c0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -224,7 +224,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#10b1fe</string>
+				<string>#0098dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -235,7 +235,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9f7efe</string>
+				<string>#823ff1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -246,7 +246,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3691ff</string>
+				<string>#275fe4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -257,7 +257,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff936a</string>
+				<string>#df631c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -279,7 +279,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff78f8</string>
+				<string>#ce33c0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -292,7 +292,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#f9c859</string>
+				<string>#c5a332</string>
 			</dict>
 		</dict>
 		<dict>
@@ -303,7 +303,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f9c859</string>
+				<string>#c5a332</string>
 			</dict>
 		</dict>
 		<dict>
@@ -316,7 +316,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#ff6480</string>
+				<string>#d52753</string>
 			</dict>
 		</dict>
 		<dict>
@@ -327,7 +327,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff936a</string>
+				<string>#df631c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -338,7 +338,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f9c859</string>
+				<string>#c5a332</string>
 			</dict>
 		</dict>
 		<dict>
@@ -349,7 +349,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3691ff</string>
+				<string>#275fe4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -360,7 +360,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#10b1fe</string>
+				<string>#0098dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -371,7 +371,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ce9887</string>
+				<string>#a05a48</string>
 			</dict>
 		</dict>
 		<dict>
@@ -382,7 +382,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9f7efe</string>
+				<string>#823ff1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -393,9 +393,9 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#3e4451</string>
+				<string>#d2ecff</string>
 				<key>foreground</key>
-				<string>#abb2bf</string>
+				<string>#383a42</string>
 			</dict>
 		</dict>
 		<dict>
@@ -406,7 +406,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3fc56b</string>
+				<string>#23974a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -417,7 +417,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff6480</string>
+				<string>#d52753</string>
 			</dict>
 		</dict>
 		<dict>
@@ -428,7 +428,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#10b1fe</string>
+				<string>#0098dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -439,7 +439,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f9c859</string>
+				<string>#c5a332</string>
 			</dict>
 		</dict>
 		<dict>
@@ -450,7 +450,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ce9887</string>
+				<string>#a05a48</string>
 			</dict>
 		</dict>
 		<dict>
@@ -461,7 +461,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff936a</string>
+				<string>#df631c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -472,7 +472,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#10b1fe</string>
+				<string>#0098dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -485,7 +485,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 				<key>foreground</key>
 				<string>#fc2f52</string>
 				<key>background</key>
-				<string>#3e4451</string>
+				<string>#d2ecff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -496,7 +496,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ce9887</string>
+				<string>#a05a48</string>
 			</dict>
 		</dict>
 		<dict>
@@ -507,7 +507,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#10b1fe</string>
+				<string>#0098dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -518,7 +518,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff6480</string>
+				<string>#d52753</string>
 			</dict>
 		</dict>
 		<dict>
@@ -529,7 +529,7 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#abb2bf</string>
+				<string>#383a42</string>
 			</dict>
 		</dict>
 		<dict>
@@ -541,7 +541,7 @@ meta.object.member, support.type.property-name, entity.name.tag.yaml, constant.o
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ce9887</string>
+				<string>#a05a48</string>
 			</dict>
 		</dict>
 		<dict>
@@ -552,7 +552,7 @@ meta.object.member, support.type.property-name, entity.name.tag.yaml, constant.o
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ce9887</string>
+				<string>#a05a48</string>
 			</dict>
 		</dict>
 		<dict>
@@ -563,7 +563,7 @@ meta.object.member, support.type.property-name, entity.name.tag.yaml, constant.o
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3fc56b</string>
+				<string>#23974a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -583,7 +583,7 @@ meta.object.member, support.type.property-name, entity.name.tag.yaml, constant.o
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#10b1fe</string>
+				<string>#0098dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -594,7 +594,7 @@ meta.object.member, support.type.property-name, entity.name.tag.yaml, constant.o
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff6480</string>
+				<string>#d52753</string>
 			</dict>
 		</dict>
 		<dict>
@@ -605,7 +605,7 @@ meta.object.member, support.type.property-name, entity.name.tag.yaml, constant.o
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3691ff</string>
+				<string>#275fe4</string>
 			</dict>
 		</dict>
 		<dict>
