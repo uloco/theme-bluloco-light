@@ -1,0 +1,38 @@
+{
+  "dark": {
+    "bg": "#282c34",
+    "fg": "#abb2bf",
+    "caret": "#ffcc00",
+    "caretrow": "#363b43",
+    "keyword": "#10b1fe",
+    "comment": "#545862",
+    "operator": "#7a82da",
+    "function": "#3fc56b",
+    "class": "#ff6480",
+    "string": "#f9c859",
+    "number": "#ff78f8",
+    "constant": "#9f7efe",
+    "attribute": "#ff936a",
+    "tag": "#3691ff",
+    "property": "#ce9887",
+    "selection": "#3e4451"
+  },
+  "light": {
+    "bg": "#f9f9f9",
+    "fg": "#383a42",
+    "caret": "#f31459",
+    "caretrow": "#f1f1f1",
+    "keyword": "#0098dd",
+    "comment": "#a0a1a7",
+    "operator": "#7a82da",
+    "function": "#23974a",
+    "class": "#d52753",
+    "string": "#c5a332",
+    "number": "#ce33c0",
+    "constant": "#823ff1",
+    "attribute": "#df631c",
+    "tag": "#275fe4",
+    "property": "#a05a48",
+    "selection": "#d2ecff"
+  }
+}
