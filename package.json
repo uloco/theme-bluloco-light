@@ -13,8 +13,8 @@
   "contributes": {
     "themes": [
       {
-        "label": "Bluloco Dark",
-        "uiTheme": "vs-dark",
+        "label": "Bluloco Light",
+        "uiTheme": "vs",
         "path": "./themes/bluloco-light.tmTheme"
       }
     ]
