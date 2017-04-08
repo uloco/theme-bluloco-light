@@ -4,6 +4,7 @@
   "description": "A fancy but yet sophisticated light designer color scheme.",
   "version": "1.0.0",
   "publisher": "uloco",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.10.0"
   },
