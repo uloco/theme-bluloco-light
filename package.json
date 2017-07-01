@@ -16,7 +16,7 @@
       {
         "label": "Bluloco Light",
         "uiTheme": "vs",
-        "path": "./themes/bluloco-light.tmTheme"
+        "path": "./themes/bluloco-light-color-theme.json"
       }
     ]
   },

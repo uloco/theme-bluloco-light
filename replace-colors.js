@@ -5,4 +5,5 @@ Object
   .keys(colors.dark)
   .forEach((name) => {
     sh.sed('-i', colors.dark[name], colors.light[name], './bluloco-light.tmTheme')
+    sh.sed('-i', colors.dark[name], colors.light[name], './bluloco-light-color-theme.json')
   })
