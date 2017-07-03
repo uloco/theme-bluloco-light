@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [2.0.1] - 2017-07-03
+### Fixed
+- hovering color too dark
+- gutter colors
+- debug colors
+
 ## [2.0.0] - 2017-07-01
 ### Added
 - New Workbench styling, matching syntax theme colors
