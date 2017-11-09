@@ -121,7 +121,12 @@
     "debugToolBar.background": "#eeeeee",
     "welcomePage.buttonBackground": "#e8e8e8",
     "welcomePage.buttonHoverBackground": "#d2ecff",
-    "walkThrough.embeddedEditorBackground": "#e8e8e8"
+    "walkThrough.embeddedEditorBackground": "#e8e8e8",
+    "gitDecoration.modifiedResourceForeground": "#0099e1",
+    "gitDecoration.deletedResourceForeground": "#d52753",
+    "gitDecoration.untrackedResourceForeground": "#23974a",
+    "gitDecoration.ignoredResourceForeground": "#a0a1a7",
+    "gitDecoration.conflictingResourceForeground": "#ce33c0"
   },
   "name": "Bluloco Light"
 }
