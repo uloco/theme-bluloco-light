@@ -7,24 +7,15 @@ Originally forked from the beatiful One Light Theme, enhanced with the meaningfu
 
 Give it a try :)
 
-### Screenshots
+## Screenshots
 Here are a bunch of screenshots.
 I tested a long range of languages, these are just a few.
 
-###### Javascript
+You can test them all in this repo: https://github.com/uloco/syntax-highlighting-samples
+
 ![js](https://raw.githubusercontent.com/uloco/theme-bluloco-light/master/screenshots/js.png)
-
-###### Typescript
 ![ts](https://raw.githubusercontent.com/uloco/theme-bluloco-light/master/screenshots/ts.png)
-
-###### Python
 ![py](https://raw.githubusercontent.com/uloco/theme-bluloco-light/master/screenshots/py.png)
-
-###### Ruby
 ![rb](https://raw.githubusercontent.com/uloco/theme-bluloco-light/master/screenshots/rb.png)
-
-###### HTML
 ![html](https://raw.githubusercontent.com/uloco/theme-bluloco-light/master/screenshots/html.png)
-
-###### CSS
 ![css](https://raw.githubusercontent.com/uloco/theme-bluloco-light/master/screenshots/css.png)
