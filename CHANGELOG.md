@@ -2,9 +2,9 @@
 
 ## [Unreleased]
 
-## [2.1.0] - 2017-11-09
+## [2.2.0] - 2018-01-13
 ### Added
-- git status file color support
+- added improved elixir support
 
 ## [2.1.3] - 2017-11-20
 ### Fixed
