@@ -1,5 +1,5 @@
-const sh = require('shelljs');
-const colors = require('./colors.json');
+const sh = require('shelljs')
+const colors = require('./colors.json')
 
 Object
   .keys(colors.dark)

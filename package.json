@@ -4,6 +4,10 @@
   "description": "A fancy but yet sophisticated light designer color scheme.",
   "version": "2.2.1",
   "publisher": "uloco",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uloco/theme-bluloco-light.git"
+  },
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.10.0"
@@ -12,13 +16,11 @@
     "Themes"
   ],
   "contributes": {
-    "themes": [
-      {
-        "label": "Bluloco Light",
-        "uiTheme": "vs",
-        "path": "./themes/bluloco-light-color-theme.json"
-      }
-    ]
+    "themes": [{
+      "label": "Bluloco Light",
+      "uiTheme": "vs",
+      "path": "./themes/bluloco-light-color-theme.json"
+    }]
   },
   "devDependencies": {
     "shelljs": "^0.7.7"

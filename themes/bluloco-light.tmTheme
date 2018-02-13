@@ -64,7 +64,20 @@
         <key>name</key>
         <string>Comments</string>
         <key>scope</key>
-        <string>comment, punctuation.definition.comment, string.comment, comment.block.documentation, comment.block.documentation variable, comment.block.documentation punctuation.definition, keyword.other.documentation, storage.type.class.jsdoc, comment.block, comment.block variable.parameter, keyword.other.phpdoc, comment.block.documentation entity.name.type</string>
+        <string>
+          comment,
+          punctuation.definition.comment,
+          string.comment,
+          comment.block.documentation,
+          comment.block.documentation variable,
+          comment.block.documentation punctuation.definition,
+          keyword.other.documentation,
+          storage.type.class.jsdoc,
+          comment.block,
+          comment.block variable.parameter,
+          keyword.other.phpdoc,
+          comment.block.documentation entity.name.type
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -94,9 +107,11 @@
           punctuation.separator.comma,
           punctuation.accessor,
           punctuation.separator.array,
+          punctuation.section,
           punctuation.section.property-list.begin.bracket.curly,
           punctuation.section.property-list.end.bracket.curly,
           punctuation.separator.statement,
+          punctuation.separator.parameter,
           punctuation.section.array.elixir,
           punctuation.separator.object.elixir,
           punctuation.section.embedded.elixir,
@@ -137,7 +152,11 @@
         <key>name</key>
         <string>Keywords</string>
         <key>scope</key>
-        <string>keyword, variable.language, keyword.other.special-method.elixir</string>
+        <string>
+          keyword,
+          variable.language,
+          keyword.other.special-method.elixir
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -148,7 +167,10 @@
         <key>name</key>
         <string>Variables</string>
         <key>scope</key>
-        <string>variable, source.elixir.embedded.source</string>
+        <string>
+          variable,
+          source.elixir.embedded.source
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -159,7 +181,12 @@
         <key>name</key>
         <string>Functions</string>
         <key>scope</key>
-        <string>entity.name.function, meta.require, support.function.any-method, meta.function-call</string>
+        <string>
+          entity.name.function,
+          meta.require,
+          support.function.any-method,
+          meta.function-call
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -201,7 +228,10 @@
         <key>name</key>
         <string>Storage</string>
         <key>scope</key>
-        <string>storage,constant.language</string>
+        <string>
+          storage,
+          constant.language
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -223,7 +253,13 @@
         <key>name</key>
         <string>Strings, Inherited Class</string>
         <key>scope</key>
-        <string>string, constant.other.symbol, punctuation.definition.string,support.constant.property-value, string.quoted.double.shell, support.function.variable.quoted.single.elixir</string>
+        <string>
+          string,
+          constant.other.symbol,
+          punctuation.definition.string,support.constant.property-value,
+          string.quoted.double.shell,
+          support.function.variable.quoted.single.elixir
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -234,7 +270,10 @@
         <key>name</key>
         <string>Integers</string>
         <key>scope</key>
-        <string>constant.numeric, variable.other.anonymous.elixir</string>
+        <string>
+          constant.numeric,
+          variable.other.anonymous.elixir
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -269,6 +308,7 @@
         <key>scope</key>
         <string>
           constant,
+          variable.other.constant,
           string.regexp.interpolated.elixir,
           string.regexp.literal.elixir
         </string>
@@ -282,7 +322,10 @@
         <key>name</key>
         <string>Tags</string>
         <key>scope</key>
-        <string>entity.name.tag, punctuation.definition.tag</string>
+        <string>
+          entity.name.tag,
+          punctuation.definition.tag
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -326,7 +369,12 @@
         <key>name</key>
         <string>Headings</string>
         <key>scope</key>
-        <string>markup.heading, punctuation.definition.heading, entity.name.section, markup.heading.setext</string>
+        <string>
+          markup.heading,
+          punctuation.definition.heading,
+          entity.name.section,
+          markup.heading.setext
+        </string>
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
@@ -350,7 +398,10 @@
         <key>name</key>
         <string>Bold</string>
         <key>scope</key>
-        <string>markup.bold, punctuation.definition.bold</string>
+        <string>
+          markup.bold,
+          punctuation.definition.bold
+        </string>
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
@@ -363,7 +414,10 @@
         <key>name</key>
         <string>Italic</string>
         <key>scope</key>
-        <string>markup.italic, punctuation.definition.italic</string>
+        <string>
+          markup.italic,
+          punctuation.definition.italic
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -491,7 +545,10 @@
         <key>name</key>
         <string>Colors</string>
         <key>scope</key>
-        <string>constant.other.color, support.constant.color</string>
+        <string>
+          constant.other.color,
+          support.constant.color
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -524,7 +581,10 @@
         <key>name</key>
         <string>Embedded</string>
         <key>scope</key>
-        <string>punctuation.section.embedded, variable.interpolation</string>
+        <string>
+          punctuation.section.embedded,
+          variable.interpolation
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -592,7 +652,22 @@
         <key>name</key>
         <string>Object Properties</string>
         <key>scope</key>
-        <string>meta.object-literal.key, meta.object.member, support.type.property-name, entity.name.tag.yaml, constant.other.key,constant.other.object.key.js,string.unquoted.label.js,constant.other.symbol.elixir,punctuation.definition.constant.elixir</string>
+        <string>
+          meta.object-literal.key,
+          meta.object.member,
+          variable.other.property,
+          variable.other.object.property,
+          support.variable.property,
+          variable.object.property,
+          support.type.property-name,
+          meta.property-name,
+          entity.name.tag.yaml,
+          constant.other.key,
+          constant.other.object.key.js,
+          string.unquoted.label.js,
+          constant.other.symbol.elixir,
+          punctuation.definition.constant.elixir
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -603,7 +678,11 @@
         <key>name</key>
         <string>Markup Code</string>
         <key>scope</key>
-        <string>markup.inline.raw, markup.fenced_code.block, markup.raw.block</string>
+        <string>
+          markup.inline.raw,
+          markup.fenced_code.block,
+          markup.raw.block
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -625,9 +704,15 @@
         <key>name</key>
         <string>Variable Parameter</string>
         <key>scope</key>
-        <string>variable.parameter</string>
+        <string>
+          variable.parameter,
+          parameter.variable.function.elixir
+        </string>
         <key>settings</key>
-        <dict></dict>
+        <dict>
+          <key>foreground</key>
+          <string>#8BCDEF</string>
+        </dict>
       </dict>
       <dict>
         <key>name</key>
@@ -666,7 +751,10 @@
         <key>name</key>
         <string>BASH: Substitution</string>
         <key>scope</key>
-        <string>punctuation.definition.string.begin.shell, punctuation.definition.string.end.shell</string>
+        <string>
+          punctuation.definition.string.begin.shell,
+          punctuation.definition.string.end.shell
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
