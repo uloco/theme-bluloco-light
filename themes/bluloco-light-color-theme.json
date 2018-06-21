@@ -147,6 +147,7 @@
     "tab.hoverBackground": "#f1f1f1",
     "editorHint.foreground": "#a0a1a7",
     "editorGroup.border": "#d5d7d8",
+    "widget.shadow": "#a0a1a7",
   },
   "name": "Bluloco Light"
 }
