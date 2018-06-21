@@ -41,6 +41,7 @@
     "list.focusForeground": "#000000",
     "list.inactiveSelectionBackground": "#f6f6f6",
     "list.highlightForeground": "#0098dd",
+    "list.errorForeground": "#ff0000",
     "activityBar.background": "#f1f1f1",
     "activityBar.foreground": "#383a42",
     "sideBar.background": "#e8e8e8",
@@ -137,7 +138,6 @@
     "gitDecoration.ignoredResourceForeground": "#a0a1a7",
     "gitDecoration.conflictingResourceForeground": "#d52753",
     "editorError.foreground": "#ff0000",
-    "list.errorForeground": "#ff0000",
     "editorWarning.foreground": "#df631c",
     "list.warningForeground": "#df631c",
     "editorInfo.foreground": "#0099e1",
@@ -154,7 +154,9 @@
     "textLink.activeForeground": "#0099e1",
     "textLink.foreground": "#0083c0",
     "textPreformat.foreground": "#a05a48",
-    "textSeparator.foreground": "#a0a1a7"
+    "textSeparator.foreground": "#a0a1a7",
+    "editor.rangeHighlightBackground": "#a0a1a70e",
+    "editor.findRangeHighlightBackground": "#a0a1a72d"
   },
   "name": "Bluloco Light"
 }
