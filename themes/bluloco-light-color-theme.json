@@ -148,6 +148,13 @@
     "editorHint.foreground": "#a0a1a7",
     "editorGroup.border": "#d5d7d8",
     "widget.shadow": "#a0a1a7",
+    "textBlockQuote.background": "#e8e8e8",
+    "textBlockQuote.border": "#0099e1",
+    "textCodeBlock.background": "#e8e8e8",
+    "textLink.activeForeground": "#0099e1",
+    "textLink.foreground": "#0083c0",
+    "textPreformat.foreground": "#a05a48",
+    "textSeparator.foreground": "#a0a1a7"
   },
   "name": "Bluloco Light"
 }
