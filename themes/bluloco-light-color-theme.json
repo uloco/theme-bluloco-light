@@ -137,7 +137,12 @@
     "gitDecoration.ignoredResourceForeground": "#a0a1a7",
     "gitDecoration.conflictingResourceForeground": "#d52753",
      "editorError.foreground": "#ff0000",
+    "list.errorForeground": "#ff0000",
      "editorWarning.foreground": "#df631c",
+    "list.warningForeground": "#df631c",
+    "editorInfo.foreground": "#0099e1",
+    "editorLineNumber.activeForeground": "#f31459",
+    "editorHint.foreground": "#a0a1a7",
     "editorGroup.border": "#d5d7d8",
   },
   "name": "Bluloco Light"
