@@ -63,6 +63,7 @@
     "editor.hoverHighlightBackground": "#e8e8e8",
     "editorLink.activeForeground": "#0083c0",
     "editorRuler.foreground": "#d5d7d8",
+    "editorIndentGuide.activeBackground": "#c2c4c7",
     "editorBracketMatch.border": "#d2ecff",
     "editorBracketMatch.background": "#d2ecff",
     "editorGutter.modifiedBackground": "#0099e1",
