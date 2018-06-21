@@ -2,6 +2,29 @@
 
 ## [Unreleased]
 
+## [2.4.0] - 2018-06-21
+### Added
+- Add text file support
+- Add shadow coloring
+- Add notification center support
+- Add indent level coloring
+ 
+### Modified
+- Improve tab colors
+- Improve search colors
+
+### Fixed
+- Fix range highlighting
+- Fix function parameter color too light
+- Fix keyword expression color
+- Fix pug braces
+- Fix list error colors
+- Fix ruler too dark
+- Fix link color
+- Fix border colors not consistent
+- Fix missing list background
+- Fix whitespace markers too obtrusive
+
 ## [2.3.0] - 2018-02-13
 ### Added
 - adjust file explorer colors for errors, warnings and infos
@@ -74,7 +97,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[Unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v2.3.0...HEAD
+[Unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v2.4.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -87,5 +110,6 @@
 [2.1.3]: https://github.com/uloco/theme-bluloco-light/compare/v2.1.2...v2.1.3
 [2.2.0]: https://github.com/uloco/theme-bluloco-light/compare/v2.1.3...v2.2.1
 [2.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.2.0...v2.2.1
-[2.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.2.1...v2.3.0
+[2.3.0]: https://github.com/uloco/theme-bluloco-light/compare/v2.2.1...v2.3.0
+[2.4.0]: https://github.com/uloco/theme-bluloco-light/compare/v2.3.0...v2.4.0
 
