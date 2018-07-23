@@ -2,18 +2,40 @@
 
 ## [Unreleased]
 
+## [2.5.0] - 2018-23-19
+
+### Add
+
+- Add italic support
+- Add gitlens support
+- Add centered layout background
+- Add merge colors
+- Add overview ruler support
+
+### Fixed
+
+- Fix overviewruler wordhighlight
+- Fix activity bar badge color
+- Fix code lens color
+- Fix empty editor group color with new split layout
+- Fix text block color
+
 ## [2.4.0] - 2018-06-21
+
 ### Added
+
 - Add text file support
 - Add shadow coloring
 - Add notification center support
 - Add indent level coloring
- 
+
 ### Modified
+
 - Improve tab colors
 - Improve search colors
 
 ### Fixed
+
 - Fix range highlighting
 - Fix function parameter color too light
 - Fix keyword expression color
@@ -26,78 +48,107 @@
 - Fix whitespace markers too obtrusive
 
 ## [2.3.0] - 2018-02-13
+
 ### Added
+
 - adjust file explorer colors for errors, warnings and infos
 - colorize javascript/typescript properties successfully (with the new grammar)
 - colorize function parameters in more languages
 
 ### Fixed
+
 - punctuation colors in parameters
 
 ## [2.2.1] - 2018-01-13
+
 ### Fixed
+
 - fixed wrong brace and bracket colors
 
 ## [2.2.0] - 2018-01-13
+
 ### Added
+
 - added improved elixir support
 
 ## [2.1.3] - 2017-11-20
+
 ### Fixed
+
 - fix git file status colors
-  + modified: blue
-  + deleted: brown
-  + untracked: green
-  + ignored: grey
-  + conflicting: red
+  - modified: blue
+  - deleted: brown
+  - untracked: green
+  - ignored: grey
+  - conflicting: red
 
 ## [2.1.2] - 2017-11-10
+
 ### Fixed
+
 - increase diff background opacity for highlighting support
 - improve selection background highlighting for better changes view
 
 ## [2.1.1] - 2017-11-10
+
 ### Fixed
+
 - fix type color in jsdoc
 
 ## [2.1.0] - 2017-11-09
+
 ### Added
+
 - git status file color support
 
 ### Fixed
+
 - block comment colors
 
 ### Known Issue
+
 - php doctype variable not changeable
 
 ## [2.0.4] - 2017-11-07
+
 ### Fixed
+
 - block cursor foreground color
 
 ## [2.0.3] - 2017-10-20
+
 ### Fixed
+
 - Darker sidebar section header
 
 ## [2.0.2] - 2017-07-03
+
 ### Fixed
+
 - Search colors
 
 ## [2.0.1] - 2017-07-03
+
 ### Fixed
+
 - Hovering color too dark
 - Gutter colors
 - Debug colors
 
 ## [2.0.0] - 2017-07-01
+
 ### Added
+
 - New Workbench styling, matching syntax theme colors
 
 ## [1.2.1] - 2017-06-08
+
 ### Fixed
+
 - Fix Javascript object property key color
 - Fix punctuations
 
-[Unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v2.4.0...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v2.5.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -112,4 +163,4 @@
 [2.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.2.0...v2.2.1
 [2.3.0]: https://github.com/uloco/theme-bluloco-light/compare/v2.2.1...v2.3.0
 [2.4.0]: https://github.com/uloco/theme-bluloco-light/compare/v2.3.0...v2.4.0
-
+[2.5.0]: https://github.com/uloco/theme-bluloco-light/compare/v2.4.0...v2.5.0
