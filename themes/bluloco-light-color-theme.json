@@ -65,7 +65,7 @@
     "editorRuler.foreground": "#d5d7d8",
     "editorIndentGuide.activeBackground": "#c2c4c7",
     "editorBracketMatch.border": "#7a82da",
-    "editorBracketMatch.background": "#f9f9f9",
+    "editorBracketMatch.background": "#00000000",
     "editorGutter.modifiedBackground": "#0099e1",
     "editorGutter.addedBackground": "#3cbc66",
     "editorGutter.deletedBackground": "#ff6480",
@@ -192,6 +192,6 @@
     "selection.background": "#d2ecff",
     "sideBar.dropBackground": "#e8e8e8",
     "terminalCursor.foreground": "#f31459",
-    "editorGroup.focusedEmptyBorder": "#0099e1",
+    "editorGroup.focusedEmptyBorder": "#0099e1"
   }
 }
