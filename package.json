@@ -24,7 +24,7 @@
       },
       {
         "label": "Bluloco Light Italic",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/bluloco-light-italic-color-theme.json"
       }
     ]
