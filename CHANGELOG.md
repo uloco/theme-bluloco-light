@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+## [2.5.2] - 2018-06-26
+
+### Fixed
+
+- Fix unit keyword italic
+- Fix italic meta properties
+
 ## [2.5.1] - 2018-06-26
 
 ### Fixed
@@ -154,7 +161,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v2.5.1...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v2.5.2...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -171,3 +178,4 @@
 [2.4.0]: https://github.com/uloco/theme-bluloco-light/compare/v2.3.0...v2.4.0
 [2.5.0]: https://github.com/uloco/theme-bluloco-light/compare/v2.4.0...v2.5.0
 [2.5.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.5.0...v2.5.1
+[2.5.2]: https://github.com/uloco/theme-bluloco-light/compare/v2.5.1...v2.5.2
