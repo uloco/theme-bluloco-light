@@ -82,8 +82,6 @@
         <dict>
           <key>foreground</key>
           <string>#a0a1a7</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -149,8 +147,6 @@
         <dict>
           <key>foreground</key>
           <string>#7a82da</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -167,8 +163,6 @@
         <dict>
           <key>foreground</key>
           <string>#0098dd</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -244,8 +238,6 @@
         <dict>
           <key>foreground</key>
           <string>#0098dd</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -353,7 +345,7 @@
         <dict>
           <key>foreground</key>
           <string>#df631c</string>
-        </dictitalic>
+        </dict>
       </dict>
       <dict>
         <key>name</key>
@@ -364,8 +356,6 @@
         <dict>
           <key>foreground</key>
           <string>#7a82da</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -426,18 +416,79 @@
       </dict>
       <dict>
         <key>name</key>
-        <string>Italic</string>
+        <string>Markup Italic</string>
         <key>scope</key>
         <string>
-          markup.italic,
-          punctuation.definition.italic
+          markup.italic
         </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
           <string>#df631c</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Italic</string>
+        <key>scope</key>
+        <string>
+          markup.italic,
+          punctuation.definition.italic,
+          comment,
+          punctuation.definition.comment,
+          string.comment,
+          comment.block.documentation,
+          comment.block.documentation variable,
+          comment.block.documentation punctuation.definition,
+          keyword.other.documentation,
+          storage.type.class.jsdoc,
+          comment.block,
+          comment.block variable.parameter,
+          keyword.other.phpdoc,
+          comment.block.documentation entity.name.type,
+          keyword,
+          keyword.operator.expression,
+          keyword.operator.new,
+          variable.language,
+          keyword.other.special-method.elixir,
+          meta.selector,
+          markup.quote,
+          markup.inserted,
+          markup.deleted,
+          markup.changed,
+          meta.object-literal.key,
+          variable.other.property,
+          variable.other.object.property,
+          support.variable.property,
+          variable.object.property,
+          support.type.property-name,
+          meta.property-name,
+          entity.name.tag.yaml,
+          constant.other.key,
+          constant.other.object.key.js,
+          string.unquoted.label.js,
+          constant.other.symbol.elixir,
+          punctuation.definition.constant.elixir,
+          storage,
+          constant.language
+        </string>
+        <key>settings</key>
+        <dict>
           <key>fontStyle</key>
           <string>italic</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>No Italic</string>
+        <key>scope</key>
+        <string>
+          keyword.operator
+        </string>
+        <key>settings</key>
+        <dict>
+          <key>fontStyle</key>
+          <string></string>
         </dict>
       </dict>
       <dict>
@@ -493,8 +544,6 @@
         <dict>
           <key>foreground</key>
           <string>#823ff1</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -535,8 +584,6 @@
         <dict>
           <key>foreground</key>
           <string>#23974a</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -548,8 +595,6 @@
         <dict>
           <key>foreground</key>
           <string>#d52753</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -561,8 +606,6 @@
         <dict>
           <key>foreground</key>
           <string>#0098dd</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -696,8 +739,6 @@
         <dict>
           <key>foreground</key>
           <string>#a05a48</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
