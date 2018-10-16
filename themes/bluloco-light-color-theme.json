@@ -196,6 +196,10 @@
     "sideBar.border": "#d1d1d1",
     "breadcrumb.activeSelectionForeground": "#009ae5",
     "breadcrumb.focusForeground": "#383a42",
-    "breadcrumb.foreground": "#a0a1a7"
+    "breadcrumb.foreground": "#a0a1a7",
+    "editor.snippetTabstopHighlightBorder": "#a0a1a7",
+    "editor.snippetTabstopHighlightBackground": "#a0a1a733",
+    "editor.snippetFinalTabstopHighlightBorder": "#a0a1a7",
+    "editor.snippetFinalTabstopHighlightBackground": "#a0a1a733"
   }
 }
