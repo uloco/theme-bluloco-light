@@ -200,6 +200,8 @@
     "editor.snippetTabstopHighlightBorder": "#a0a1a7",
     "editor.snippetTabstopHighlightBackground": "#a0a1a733",
     "editor.snippetFinalTabstopHighlightBorder": "#a0a1a7",
-    "editor.snippetFinalTabstopHighlightBackground": "#a0a1a733"
+    "editor.snippetFinalTabstopHighlightBackground": "#a0a1a733",
+    "listFilterWidget.background": "#99e5c2c5",
+    "listFilterWidget.noMatchesOutline": "#ff2e3f"
   }
 }
