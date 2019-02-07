@@ -6,7 +6,7 @@
 
 ### Description
 
-A fancy but yet sophisticated light designer color scheme for the Atom Editor.
+A fancy but yet sophisticated light designer color scheme for Visual Studio Code.
 
 Originally forked from the beatiful One Light Theme, enhanced with the meaningful intuitive bluloco color palette.
 
