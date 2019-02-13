@@ -138,6 +138,7 @@
     "gitDecoration.conflictingResourceForeground": "#d52753",
     "editorWarning.foreground": "#df631c",
     "list.warningForeground": "#df631c",
+    "list.errorForeground": "#ff0000",
     "editorInfo.foreground": "#0099e1",
     "editorLineNumber.activeForeground": "#f31459",
     "tab.activeBorderTop": "#0099e1",
