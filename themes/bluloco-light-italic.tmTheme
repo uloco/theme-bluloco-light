@@ -825,6 +825,47 @@
           <string>#7a82da</string>
         </dict>
       </dict>
+      <dict>
+        <key>name</key>
+        <string>CSV Rainbow 4</string>
+        <key>scope</key>
+        <string>
+          comment.rainbow4
+        </string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#a05a48</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>CSV Rainbow 9</string>
+        <key>scope</key>
+        <string>
+          markup.bold.rainbow9
+        </string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#823ff1</string>
+          <key>fontStyle</key>
+          <string></string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>CSV Rainbow 10</string>
+        <key>scope</key>
+        <string>
+          invalid.rainbow10
+        </string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#df631c</string>
+        </dict>
+      </dict>
     </array>
     <key>uuid</key>
     <string>uuid</string>
