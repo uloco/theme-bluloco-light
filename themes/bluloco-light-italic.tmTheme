@@ -120,7 +120,18 @@
           punctuation.section.embedded,
           meta.brace.round,
           meta.brace.square,
-          constant.name.attribute.tag.pug
+          meta.brace.curly,
+          constant.name.attribute.tag.pug,
+          punctuation.section.embedded,
+          punctuation.separator.method,
+          punctuation.separator,
+          punctuation.other.comma,
+          punctuation.bracket,
+          keyword.control.ternary,
+          string.interpolated.pug,
+          support.function.interpolation.sass,
+          punctuation.parenthesis.begin,
+          punctuation.parenthesis.end
         </string>
         <key>settings</key>
         <dict>
@@ -158,7 +169,8 @@
           keyword,
           keyword.operator.expression,
           variable.language,
-          keyword.other.special-method.elixir
+          keyword.other.special-method.elixir,
+          meta.control.flow
         </string>
         <key>settings</key>
         <dict>
@@ -173,7 +185,8 @@
         <string>
           variable,
           source.elixir.embedded.source,
-          string source.groovy
+          string source.groovy,
+          string meta.embedded.line.ruby
         </string>
         <key>settings</key>
         <dict>
@@ -190,7 +203,8 @@
           meta.require,
           support.function.any-method,
           meta.function-call,
-          meta.method-call
+          meta.method-call,
+          variable.function
         </string>
         <key>settings</key>
         <dict>
@@ -210,7 +224,8 @@
           meta.class.inheritance,
           entity.other.inherited-class,
           entity.name.type,
-          variable.other.constant.elixir
+          variable.other.constant.elixir,
+          storage.type.haskell
         </string>
         <key>settings</key>
         <dict>
@@ -260,10 +275,10 @@
         <key>scope</key>
         <string>
           string,
-          constant.other.symbol,
           punctuation.definition.string,support.constant.property-value,
           string.quoted.double.shell,
-          support.function.variable.quoted.single.elixir
+          support.function.variable.quoted.single.elixir,
+          storage.type.string
         </string>
         <key>settings</key>
         <dict>
@@ -316,8 +331,10 @@
         <string>
           constant,
           variable.other.constant,
-          string.regexp.interpolated.elixir,
-          string.regexp.literal.elixir
+          constant.other.symbol,
+          constant.language.symbol,
+          support.constant,
+          support.variable.magic.python
         </string>
         <key>settings</key>
         <dict>
@@ -544,12 +561,7 @@
         <key>name</key>
         <string>Template</string>
         <key>scope</key>
-        <string>
-          string.quoted.double.interpolated.elixir,
-          punctuation.section.list.begin.elixir,
-          punctuation.section.regexp.begin.elixir,
-          string.quoted.double.literal.elixir
-        </string>
+        <string></string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -604,20 +616,6 @@
       </dict>
       <dict>
         <key>name</key>
-        <string>Colors</string>
-        <key>scope</key>
-        <string>
-          constant.other.color,
-          support.constant.color
-        </string>
-        <key>settings</key>
-        <dict>
-          <key>foreground</key>
-          <string>#c5a332</string>
-        </dict>
-      </dict>
-      <dict>
-        <key>name</key>
         <string>Regular Expressions</string>
         <key>scope</key>
         <string>string.regexp</string>
@@ -646,7 +644,6 @@
         <string>Embedded</string>
         <key>scope</key>
         <string>
-          punctuation.section.embedded,
           variable.interpolation
         </string>
         <key>settings</key>
@@ -666,17 +663,6 @@
           <string>#ff0000</string>
           <key>background</key>
           <string>#d2ecff</string>
-        </dict>
-      </dict>
-      <dict>
-        <key>name</key>
-        <string>Support Constant</string>
-        <key>scope</key>
-        <string>support.constant</string>
-        <key>settings</key>
-        <dict>
-          <key>foreground</key>
-          <string>#a05a48</string>
         </dict>
       </dict>
       <dict>
@@ -729,8 +715,7 @@
           constant.other.key,
           constant.other.object.key.js,
           string.unquoted.label.js,
-          constant.other.symbol.elixir,
-          punctuation.definition.constant.elixir
+          support.type.map.key
         </string>
         <key>settings</key>
         <dict>
@@ -770,7 +755,8 @@
         <key>scope</key>
         <string>
           variable.parameter,
-          parameter.variable.function.elixir
+          parameter.variable.function.elixir,
+          variable.other.block.ruby
         </string>
         <key>settings</key>
         <dict>
