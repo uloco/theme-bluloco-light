@@ -51,7 +51,6 @@
         <string>Text</string>
         <key>scope</key>
         <string>
-          variable.parameter.function,
           comment.unused.elixir
         </string>
         <key>settings</key>
