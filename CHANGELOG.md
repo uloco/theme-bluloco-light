@@ -142,7 +142,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v2.7.2...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v2.8.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -165,3 +165,4 @@
 [2.7.0]: https://github.com/uloco/theme-bluloco-light/compare/v2.6.5...v2.7.0
 [2.7.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.7.0...v2.7.1
 [2.7.2]: https://github.com/uloco/theme-bluloco-light/compare/v2.7.1...v2.7.2
+[2.8.0]: https://github.com/uloco/theme-bluloco-light/compare/v2.7.2...v2.8.0
