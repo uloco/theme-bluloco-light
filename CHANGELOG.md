@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [2.8.0] - 2019-05-13
+
+- Add improved GraphQL support
+
 ## [2.7.2] - 2019-04-03
 
 - Change name to Bluloco Light for better visibility
