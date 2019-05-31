@@ -1,14 +1,15 @@
 # theme-bluloco-light theme
 
-> Recently added an italic variant, mostly for operator mono support.  
-> Just choose the theme _Bluloco Light Italic_  
-> Hope you like it. :)
-
 ### Description
 
-A fancy but yet sophisticated light designer color scheme for Visual Studio Code.
+A fancy but yet sophisticated light designer color scheme / theme for
+Visual Studio Code.
 
-Originally forked from the beatiful One Light Theme, enhanced with the meaningful intuitive bluloco color palette.
+This theme features a much more comprehensive usage of syntax scopes and color
+consistency, with due regards to aesthetics, contrast and readability.
+
+Originally forked from the beautiful One Light Theme, enhanced with the
+meaningful intuitive Bluloco color palette.
 
 This theme also works very good when Apple's **Nightshift Mode** is activated.
 
