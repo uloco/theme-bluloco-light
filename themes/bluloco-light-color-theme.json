@@ -192,6 +192,7 @@
     "merge.currentHeaderBackground": "#a05a483b",
     "merge.incomingContentBackground": "#009ae121",
     "merge.incomingHeaderBackground": "#009ae13b",
+    "minimap.findMatchHighlight": "#99e5c2c5",
     "panel.dropBackground": "#e8e8e8",
     "pickerGroup.border": "#d5d7d8",
     "pickerGroup.foreground": "#0099e1",
