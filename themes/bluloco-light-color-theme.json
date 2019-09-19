@@ -143,6 +143,8 @@
     "gitDecoration.untrackedResourceForeground": "#23974a",
     "gitDecoration.ignoredResourceForeground": "#a0a1a7",
     "gitDecoration.conflictingResourceForeground": "#d52753",
+    "gitDecoration.addedResourceForeground": "#23974a",
+    "gitDecoration.submoduleResourceForeground": "#823ff1",
     "editorWarning.foreground": "#ff8f3a",
     "list.warningForeground": "#ff8f3a",
     "list.errorForeground": "#ff0000",
