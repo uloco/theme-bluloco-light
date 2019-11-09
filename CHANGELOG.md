@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [2.9.2] - 2019-11-09
+
+- Fix activity bar active bg
+
 ## [2.9.0] - 2019-09-02
 
 - Add remote icon support for status bar
