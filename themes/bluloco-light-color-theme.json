@@ -65,6 +65,7 @@
     "editorLink.activeForeground": "#0099e1",
     "editorRuler.foreground": "#d5d7d8",
     "editorIndentGuide.activeBackground": "#c2c4c7",
+    "editorIndentGuide.background": "#d5d7d8",
     "editorBracketMatch.border": "#7a82da",
     "editorBracketMatch.background": "#00000000",
     "editorGutter.modifiedBackground": "#0099e1",
