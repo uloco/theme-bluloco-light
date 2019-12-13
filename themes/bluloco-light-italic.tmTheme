@@ -566,17 +566,6 @@
       </dict>
       <dict>
         <key>name</key>
-        <string>Template</string>
-        <key>scope</key>
-        <string></string>
-        <key>settings</key>
-        <dict>
-          <key>foreground</key>
-          <string>#3775ae</string>
-        </dict>
-      </dict>
-      <dict>
-        <key>name</key>
         <string>Separator</string>
         <key>scope</key>
         <string>meta.separator</string>
