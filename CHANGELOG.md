@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [3.0.0] - 2020-03-06
+
+- Move to inline styles to improve semantic colors
+
 ## [2.9.3] - 2019-12-13
 
 - Fix foreground color broken
@@ -164,7 +168,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v2.9.3...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.0.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -192,3 +196,4 @@
 [2.9.0]: https://github.com/uloco/theme-bluloco-light/compare/v2.8.1...v2.9.0
 [2.9.2]: https://github.com/uloco/theme-bluloco-light/compare/v2.9.0...v2.9.2
 [2.9.3]: https://github.com/uloco/theme-bluloco-light/compare/v2.9.2...v2.9.3
+[3.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v2.9.3...v3.0.0
