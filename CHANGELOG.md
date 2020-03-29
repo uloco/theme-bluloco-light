@@ -2,6 +2,11 @@
 
 ## [unreleased]
 
+## [3.0.3] - 2020-03-30
+
+- Fix php doc highlighting
+- Add new screenshots
+
 ## [3.0.1] - 2020-03-06
 
 - Add subtle jsdoc highlighting
@@ -172,7 +177,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.0.1...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.0.3...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -201,4 +206,5 @@
 [2.9.2]: https://github.com/uloco/theme-bluloco-light/compare/v2.9.0...v2.9.2
 [2.9.3]: https://github.com/uloco/theme-bluloco-light/compare/v2.9.2...v2.9.3
 [3.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v2.9.3...v3.0.0
-[3.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.0.0...v3.0.1
+[3.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v3.0.0...v3.0.1
+[3.0.3]: https://github.com/uloco/theme-bluloco-light/compare/v3.0.3...v3.0.3
