@@ -1,5 +1,6 @@
 {
   "name": "Bluloco Light",
+  "semanticHighlighting": true,
   "colors": {
     "editor.background": "#f9f9f9",
     "editorCursor.foreground": "#f31459",
