@@ -61,7 +61,7 @@
     "editor.findMatchBorder": "#f31459",
     "editor.findMatchBackground": "#99e5c2c5",
     "editor.findMatchHighlightBackground": "#99e5c2c5",
-    "editor.hoverHighlightBackground": "#e8e8e8",
+    "editor.hoverHighlightBackground": "#00000011",
     "editorLink.activeForeground": "#0099e1",
     "editorRuler.foreground": "#d5d7d8",
     "editorIndentGuide.activeBackground": "#c2c4c7",
