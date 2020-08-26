@@ -3,6 +3,7 @@
 ## [unreleased]
 
 - Add secondary button colors
+- Add input options coloring
 
 ## [3.1.1] - 2020-06-01
 
