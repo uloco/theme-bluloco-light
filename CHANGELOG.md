@@ -2,9 +2,12 @@
 
 ## [unreleased]
 
+- Add secondary button colors
+- Add input options coloring
+
 ## [3.1.1] - 2020-06-01
 
-Fix hover highlight not transparent
+- Fix hover highlight not transparent
 
 ## [3.1.0] - 2020-03-30
 
