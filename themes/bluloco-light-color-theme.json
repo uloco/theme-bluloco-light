@@ -33,6 +33,7 @@
     "debugView.stateLabelBackground": "#d5d7d8",
     "debugView.stateLabelForeground": "#383A42",
     "debugView.valueChangedHighlight": "#58b8e6",
+    "diffEditor.diagonalFill": "#d5d7d8",
     "editor.symbolHighlightBackground": "#ce33c12d",
     "editor.stackFrameHighlightBackground": "#ffc47760",
     "editor.focusedStackFrameHighlightBackground": "#43db7644",
