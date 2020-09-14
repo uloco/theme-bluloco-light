@@ -2,6 +2,8 @@
 
 ## [unreleased]
 
+## [3.2.0] - 2020-09-14
+
 - Add secondary button colors
 - Add input options coloring
 - Add symbol icon colors
