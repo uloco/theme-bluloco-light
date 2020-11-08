@@ -189,6 +189,8 @@
     "gitDecoration.conflictingResourceForeground": "#d52753",
     "gitDecoration.addedResourceForeground": "#23974a",
     "gitDecoration.submoduleResourceForeground": "#823ff1",
+    "gitDecoration.stageDeletedResourceForeground": "#a05a48",
+    "gitDecoration.stageModifiedResourceForeground": "#0099e1",
     "editorWarning.foreground": "#ff8f3a",
     "list.warningForeground": "#ff8f3a",
     "list.errorForeground": "#ff0000",
