@@ -44,6 +44,8 @@
     "editorWhitespace.foreground": "#d5d7d8",
     "editor.lineHighlightBackground": "#f1f1f1",
     "editor.selectionBackground": "#d2ecff",
+    "editorLightBulb.foreground": "#ff8f3a",
+    "editorLightBulbAutoFix.foreground": "#ff8f3a",
     "focusBorder": "#0099e1",
     "editorLineNumber.foreground": "#a0a1a7",
     "button.background": "#0083c0",
