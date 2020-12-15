@@ -253,6 +253,7 @@
     "terminalCursor.foreground": "#f31459",
     "editorGroup.focusedEmptyBorder": "#0099e1",
     "sideBar.border": "#d1d1d1",
+    "sash.hoverBorder": "#0099e1",
     "breadcrumb.activeSelectionForeground": "#009ae5",
     "breadcrumb.focusForeground": "#383a42",
     "breadcrumb.foreground": "#a0a1a7",
