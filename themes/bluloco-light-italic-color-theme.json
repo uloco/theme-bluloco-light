@@ -240,8 +240,7 @@
     "editorOverviewRuler.warningForeground": "#ff8f3a",
     "editorOverviewRuler.wordHighlightStrongForeground": "#e99dd5b9",
     "editorOverviewRuler.wordHighlightForeground": "#8bcdffa7",
-    "errorForeground": "#ff00ff",
-
+    "errorForeground": "#ff0000",
     "foreground": "#383a42",
     "merge.currentContentBackground": "#a05a481c",
     "merge.currentHeaderBackground": "#a05a483b",
