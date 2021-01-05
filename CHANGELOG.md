@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [3.3.1] - 2021-01-05
+
+- Fix error foreground
+
 ## [3.3.0] - 2020-12-16
 
 - Add error color backgrounds
