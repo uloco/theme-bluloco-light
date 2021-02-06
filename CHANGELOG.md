@@ -2,7 +2,7 @@
 
 ## [unreleased]
 
-## [3.3.1] - 2021-02-06
+## [3.3.2] - 2021-02-06
 
 - Improve jupyter notebook support
 - Add chart colors
