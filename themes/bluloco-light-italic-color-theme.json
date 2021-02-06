@@ -311,7 +311,13 @@
     "notebookStatusSuccessIcon.foreground": "#3fc56b",
     "notebookScrollbarSlider.activeBackground": "#c1d9ff35",
     "notebookScrollbarSlider.hoverBackground": "#c1d9ff28",
-    "notebookScrollbarSlider.background": "#c1d9ff14"
+    "notebookScrollbarSlider.background": "#c1d9ff14",
+    "charts.blue": "#275fe4",
+    "charts.green": "#23974a",
+    "charts.orange": "#df631c",
+    "charts.purple": "#823ff1",
+    "charts.red": "#d52753",
+    "charts.yellow": "#c5a332"
   },
 
   "tokenColors": [
