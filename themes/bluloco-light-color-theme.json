@@ -298,7 +298,22 @@
     "symbolIcon.snippetForeground": "#A0A1A7",
     "symbolIcon.variableForeground": "#383a42",
     "symbolIcon.stringForeground": "#C5A332",
-    "symbolIcon.unitForeground": "#C5A332"
+    "symbolIcon.unitForeground": "#C5A332",
+    "notebook.cellBorderColor": "#d5d7d8",
+    "notebook.cellHoverBackground": "#bdbbbb21",
+    "notebook.cellStatusBarItemHoverBackground": "#f1f1f1",
+    "notebook.cellToolbarSeparator": "#d5d7d8",
+    "notebook.focusedCellBackground": "#e8e8e8",
+    "notebook.outputContainerBackgroundColor": "#e8e8e8",
+    "notebook.rowHoverBackground": "#bdbbbb21",
+    "notebook.selectedCellBackground": "#e8e8e8",
+    "notebook.symbolHighlightBackground": "#d2ecff",
+    "notebookStatusErrorIcon.foreground": "#f81141",
+    "notebookStatusRunningIcon.foreground": "#3691ff",
+    "notebookStatusSuccessIcon.foreground": "#3fc56b",
+    "notebookScrollbarSlider.activeBackground": "#c1d9ff35",
+    "notebookScrollbarSlider.hoverBackground": "#c1d9ff28",
+    "notebookScrollbarSlider.background": "#c1d9ff14",
   },
   "tokenColors": [
     {
