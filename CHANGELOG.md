@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [3.3.5] - 2021-02-06
+
+- Fixed terminal colors blacks and whites
+
 ## [3.3.2] - 2021-02-06
 
 - Improve jupyter notebook support
