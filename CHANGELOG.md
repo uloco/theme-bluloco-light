@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [3.3.6] - 2021-03-05
+
+- Fix quick open list item highlight
+
 ## [3.3.5] - 2021-02-06
 
 - Fixed terminal colors blacks and whites
@@ -255,3 +259,7 @@
 [3.2.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.1.1...v3.2.0
 [3.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v3.2.0...v3.2.1
 [3.3.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.2.1...v3.3.0
+[3.3.1]: https://github.com/uloco/theme-bluloco-light/compare/v3.2.1...v3.3.1
+[3.3.2]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.1...v3.3.2
+[3.3.5]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.2...v3.3.5
+[3.3.6]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.5...v3.3.6
