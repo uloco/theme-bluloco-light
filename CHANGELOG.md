@@ -2,6 +2,11 @@
 
 ## [unreleased]
 
+## [3.3.7] - 2021-03-08
+
+- Fix changelog links
+- Fix screenshot links
+
 ## [3.3.6] - 2021-03-05
 
 - Fix quick open list item highlight
@@ -223,7 +228,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.6...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.7...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -263,3 +268,4 @@
 [3.3.2]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.1...v3.3.2
 [3.3.5]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.2...v3.3.5
 [3.3.6]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.5...v3.3.6
+[3.3.7]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.6...v3.3.7
