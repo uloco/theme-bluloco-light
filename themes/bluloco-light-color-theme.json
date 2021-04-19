@@ -82,7 +82,7 @@
     "list.activeSelectionForeground": "#ffffff",
     "list.dropBackground": "#d2ecff",
     "list.hoverBackground": "#f1f1f1",
-    "quickInput.list.focusBackground": "#d2ecff",
+    "quickInputList.focusBackground": "#d2ecff",
     "list.focusForeground": "#000000",
     "list.inactiveSelectionBackground": "#f6f6f6",
     "list.highlightForeground": "#0098dd",
