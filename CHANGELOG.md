@@ -2,6 +2,13 @@
 
 ## [unreleased]
 
+## [3.3.8] - 2021-04-20
+
+- Fix broken placeholder images
+- Fix tab border
+- Updates blacks and whites
+- Fix quickInputList background
+
 ## [3.3.7] - 2021-03-08
 
 - Fix changelog links
@@ -228,7 +235,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.7...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.8...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -269,3 +276,4 @@
 [3.3.5]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.2...v3.3.5
 [3.3.6]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.5...v3.3.6
 [3.3.7]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.6...v3.3.7
+[3.3.8]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.7...v3.3.8
