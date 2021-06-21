@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [3.3.10] - 2021-06-21
+
+- Fix quick input highlight colors
+
 ## [3.3.9] - 2021-04-20
 
 - Fix multipule selected notebook colors
@@ -239,7 +243,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.9...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.10...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -282,3 +286,4 @@
 [3.3.7]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.6...v3.3.7
 [3.3.8]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.7...v3.3.8
 [3.3.9]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.8...v3.3.9
+[3.3.10]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.9...v3.3.10
