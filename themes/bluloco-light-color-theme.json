@@ -307,7 +307,6 @@
     "notebook.cellToolbarSeparator": "#d5d7d8",
     "notebook.focusedCellBackground": "#e8e8e8",
     "notebook.outputContainerBackgroundColor": "#e8e8e8",
-    "notebook.rowHoverBackground": "#bdbbbb21",
     "notebook.symbolHighlightBackground": "#d2ecff",
     "notebook.selectedCellBackground": "#e8e8e8",
     "notebook.focusedCellBorder": "#0099e1",
@@ -324,7 +323,11 @@
     "charts.orange": "#df631c",
     "charts.purple": "#823ff1",
     "charts.red": "#d52753",
-    "charts.yellow": "#c5a332"
+    "charts.yellow": "#c5a332",
+    "keybindingLabel.background": "#d2ecff",
+    "keybindingLabel.border": "#383a4230",
+    "keybindingLabel.bottomBorder": "#383a4230",
+    "keybindingLabel.foreground": "#383a42"
   },
 
   "tokenColors": [
