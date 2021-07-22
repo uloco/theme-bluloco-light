@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [3.4.3] - 2021-07-22
+
+- Fix wrong enum color in italic variant
+
 ## [3.4.2] - 2021-07-22
 
 - Change enumMember color to const
@@ -255,7 +259,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.2...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.3...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -302,3 +306,4 @@
 [3.4.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.10...v3.4.0
 [3.4.1]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.0...v3.4.1
 [3.4.2]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.1...v3.4.2
+[3.4.3]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.2...v3.4.3
