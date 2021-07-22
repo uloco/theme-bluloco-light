@@ -485,6 +485,7 @@
         "entity.other.inherited-class",
         "entity.name.type",
         "variable.other.constant.elixir",
+        "variable.other.enummember",
         "storage.type.haskell",
         "support.type.graphql",
         "support.type.enum.graphql"
