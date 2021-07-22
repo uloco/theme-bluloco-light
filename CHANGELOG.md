@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [3.4.1] - 2021-07-22
+
+- Fix enummember type
+
 ## [3.4.0] - 2021-07-14
 
 - Add keybinding colors
@@ -247,7 +251,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.0...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.1...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -292,3 +296,4 @@
 [3.3.9]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.8...v3.3.9
 [3.3.10]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.9...v3.3.10
 [3.4.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.3.10...v3.4.0
+[3.4.1]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.0...v3.4.1
