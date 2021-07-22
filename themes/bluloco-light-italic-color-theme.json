@@ -558,7 +558,8 @@
         "constant.other.symbol",
         "constant.language.symbol",
         "support.constant",
-        "support.variable.magic.python"
+        "support.variable.magic.python",
+        "variable.other.enummember"
       ],
       "settings": {
         "foreground": "#823ff1"
