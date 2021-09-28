@@ -118,6 +118,7 @@
     "diffEditor.removedTextBackground": "#f33b5127",
     "editorWidget.background": "#e8e8e8",
     "editorWidget.border": "#d5d7d8",
+    "editorHoverWidget.statusBarBackground": "#d5d8d8",
     "debugExceptionWidget.background": "#ffcccc",
     "debugExceptionWidget.border": "#ff2e3f",
     "editorMarkerNavigation.background": "#f9f9f9",
