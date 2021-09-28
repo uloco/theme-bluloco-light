@@ -181,6 +181,7 @@
     "terminal.ansiBrightMagenta": "#ce33c0",
     "terminal.ansiBrightCyan": "#6d93bb",
     "terminal.ansiBrightWhite": "#d3d3d3",
+    "terminal.tab.activeBorder": "#0099e1",
     "debugToolBar.background": "#eeeeee",
     "welcomePage.buttonBackground": "#e8e8e8",
     "welcomePage.buttonHoverBackground": "#d2ecff",
