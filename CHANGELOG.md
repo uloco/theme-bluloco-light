@@ -2,6 +2,14 @@
 
 ## [unreleased]
 
+## [3.5.0] - 2021-09-28
+
+- Add themed statusbarItem colors
+- Change prominent buttons to blue
+- Add widget statusbar color
+- Fix notebook cell editor background
+- Add terminal tab active border
+
 ## [3.4.4] - 2021-08-23
 
 - Fix TypeScript asserts keyword color
@@ -264,7 +272,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.4...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.5.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -313,3 +321,4 @@
 [3.4.2]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.1...v3.4.2
 [3.4.3]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.2...v3.4.3
 [3.4.4]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.3...v3.4.4
+[3.5.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.4...v3.5.0
