@@ -303,6 +303,7 @@
     "notebook.cellHoverBackground": "#bdbbbb21",
     "notebook.cellStatusBarItemHoverBackground": "#f1f1f1",
     "notebook.cellToolbarSeparator": "#d5d7d8",
+    "notebook.cellEditorBackground": "#f5f5f5",
     "notebook.focusedCellBackground": "#e8e8e8",
     "notebook.outputContainerBackgroundColor": "#e8e8e8",
     "notebook.symbolHighlightBackground": "#d2ecff",
