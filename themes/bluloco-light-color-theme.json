@@ -643,7 +643,38 @@
       "name": "Italic",
       "scope": ["markup.italic", "punctuation.definition.italic"],
       "settings": {
-        "foreground": "#df631c"
+        "foreground": "#df631c",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Strikethrough",
+      "scope": ["markup.strikethrough", "punctuation.definition.strikethrough"],
+      "settings": {
+        "foreground": "#a0a1a7",
+        "fontStyle": "strikethrough"
+      }
+    },
+    {
+      "name": "Strikethrough Italic",
+      "scope": [
+        "markup.strikethrough markup.italic",
+        "markup.strikethrough markup.italic punctuation.definition.italic"
+      ],
+      "settings": {
+        "foreground": "#a0a1a7",
+        "fontStyle": "italic strikethrough"
+      }
+    },
+    {
+      "name": "Strikethrough Bold",
+      "scope": [
+        "markup.strikethrough markup.bold",
+        "markup.strikethrough markup.bold punctuation.definition.bold"
+      ],
+      "settings": {
+        "foreground": "#a0a1a7",
+        "fontStyle": "bold strikethrough"
       }
     },
     {
