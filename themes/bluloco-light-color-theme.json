@@ -89,7 +89,7 @@
     "quickInputList.focusForeground": "#000000",
     "list.focusForeground": "#000000",
     "list.inactiveSelectionBackground": "#f6f6f6",
-    "list.highlightForeground": "#ff0000",
+    "list.highlightForeground": "#0098dd",
     "activityBar.background": "#f1f1f1",
     "activityBar.foreground": "#383a42",
     "activityBar.activeBorder": "#0099e1",
