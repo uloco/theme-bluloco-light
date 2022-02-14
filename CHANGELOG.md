@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [3.6.1] - 2022-02-14
+
+- Fix mistakenly updated list highlight
+
 ## [3.6.0] - 2022-02-13
 
 - Style checkbox
@@ -281,7 +285,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.6.0...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.6.1...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -332,3 +336,4 @@
 [3.4.4]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.3...v3.4.4
 [3.5.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.4...v3.5.0
 [3.6.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.5.0...v3.6.0
+[3.6.1]: https://github.com/uloco/theme-bluloco-light/compare/v3.6.0...v3.6.1
