@@ -272,6 +272,8 @@
     "merge.incomingHeaderBackground": "#009ae13b",
     "minimap.findMatchHighlight": "#99e5c2c5",
     "minimap.background": "#F9F9F9cc",
+    "minimap.selectionHighlight": "#8bcdffa7",
+    "minimap.selectionOccurrenceHighlight": "#8bcdffa7",
     "scrollbar.shadow": "#d1d1d1",
     "pickerGroup.border": "#d5d7d8",
     "pickerGroup.foreground": "#0099e1",
