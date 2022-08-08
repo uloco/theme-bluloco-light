@@ -39,6 +39,8 @@
     "commandCenter.activeBackground": "#f1f1f1",
     "commandCenter.background": "#e8e8e8",
     "commandCenter.border": "#d5d7d8",
+    "editorInlayHint.background": "#27618d24",
+    "editorInlayHint.foreground": "#27618d",
     "editor.symbolHighlightBackground": "#ce33c12d",
     "editor.stackFrameHighlightBackground": "#ffc47760",
     "editor.focusedStackFrameHighlightBackground": "#43db7644",
