@@ -2,6 +2,20 @@
 
 ## [unreleased]
 
+## [3.7.0] - 2022-08-08
+
+- Fix editor inlay hint coloring
+- Improve C/C++ operator coloring
+- Fix placeholder images
+- Add shell integration coloring
+- Fix terminal find color
+- Fix git renamed color
+- Fix add merge editor colors
+- Add command center coloring
+- Fix improve minimap selected bg
+- Fix gitlens file blame color
+- Fix git standard diff view colors
+
 ## [3.6.1] - 2022-02-14
 
 - Fix mistakenly updated list highlight
@@ -285,7 +299,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.6.1...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -337,3 +351,4 @@
 [3.5.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.4.4...v3.5.0
 [3.6.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.5.0...v3.6.0
 [3.6.1]: https://github.com/uloco/theme-bluloco-light/compare/v3.6.0...v3.6.1
+[3.7.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.6.1...v3.7.0
