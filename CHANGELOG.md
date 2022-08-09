@@ -4,6 +4,8 @@
 
 ## [3.7.1] - 2022-08-09
 
+- Fix theme not loading
+
 ## [3.7.0] - 2022-08-08
 
 - Fix editor inlay hint coloring
