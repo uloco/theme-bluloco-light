@@ -187,7 +187,7 @@
     "keybindingLabel.background": "#d2ecff",
     "keybindingLabel.border": "#383a4230",
     "keybindingLabel.bottomBorder": "#383a4230",
-    "keybindingLabel.foreground": "#383a42"
+    "keybindingLabel.foreground": "#383a42",
     "list.activeSelectionBackground": "#00a7f5",
     "list.activeSelectionForeground": "#ffffff",
     "list.dropBackground": "#d2ecff",
@@ -368,7 +368,7 @@
     "titleBar.inactiveBackground": "#c2c4c799",
     "titleBar.inactiveForeground": "#383a4299",
     "walkThrough.embeddedEditorBackground": "#e8e8e8",
-    "widget.shadow": "#a0a1a7",
+    "widget.shadow": "#a0a1a7"
   },
 
   "tokenColors": [
