@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [3.7.3] - 2022-12-26
+
+- Fix wrong terminal colors
+
 ## [3.7.2] - 2022-08-09
 
 - Improve inlay hints blending in
@@ -307,7 +311,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.2...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.3...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -362,3 +366,4 @@
 [3.7.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.6.1...v3.7.0
 [3.7.1]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.0...v3.7.1
 [3.7.2]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.1...v3.7.2
+[3.7.3]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.2...v3.7.3
