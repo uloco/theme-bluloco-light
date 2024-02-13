@@ -372,8 +372,14 @@
     "walkThrough.embeddedEditorBackground": "#e8e8e8",
     "widget.shadow": "#a0a1a7"
   },
-
   "tokenColors": [
+    {
+      "name": "Source",
+      "scope": "source",
+      "settings": {
+        "foreground": "#383a42"
+      }
+    },
     {
       "name": "Text",
       "scope": "comment.unused.elixir",
