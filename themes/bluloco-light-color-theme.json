@@ -382,6 +382,16 @@
       }
     },
     {
+      "name": "Modules",
+      "scope": [
+        "entity.name.namespace",
+        "entity.name.module",
+        "entity.name.type.module"
+      ],
+      "settings": {
+        "foreground": "#ee5672"
+      }
+    },
     {
       "name": "Label",
       "scope": ["variable.other.label", "entity.name.function.decorator"],
