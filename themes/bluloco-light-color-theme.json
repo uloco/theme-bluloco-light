@@ -437,6 +437,7 @@
     {
       "name": "Punctuation",
       "scope": [
+        "punctuation",
         "punctuation.comma",
         "punctuation.semi",
         "punctuation.definition.variable",
@@ -548,6 +549,8 @@
     {
       "name": "Classes",
       "scope": [
+        "storage.type.ocaml",
+        "support.type",
         "support.class",
         "entity.name.class",
         "entity.name.type.class",
