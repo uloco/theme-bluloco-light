@@ -382,6 +382,14 @@
       }
     },
     {
+    {
+      "name": "Label",
+      "scope": ["variable.other.label", "entity.name.function.decorator"],
+      "settings": {
+        "foreground": "#047485"
+      }
+    },
+    {
       "name": "Comments",
       "scope": [
         "comment",
