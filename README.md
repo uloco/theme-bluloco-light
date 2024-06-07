@@ -32,7 +32,7 @@ I want to keep bluloco a great experience for everybody and your help would be i
 | Function/Method      | ![#23974a](https://fakeimg.pl/35/23974a/?text=+) | #23974a | rgb(35, 151, 74)   |
 | Property             | ![#a05a48](https://fakeimg.pl/35/a05a48/?text=+) | #a05a48 | rgb(160, 90, 72)   |
 | String               | ![#c5a332](https://fakeimg.pl/35/c5a332/?text=+) | #c5a332 | rgb(197, 163, 50)  |
-| Number               | ![#ce33c0](https://fakeimg.pl/35/ce33c0/?text=+) | #ce33c0 | rgb(356, 51, 192)  |
+| Number               | ![#ce33c0](https://fakeimg.pl/35/ce33c0/?text=+) | #ce33c0 | rgb(206, 51, 192)  |
 | Constant             | ![#823ff1](https://fakeimg.pl/35/823ff1/?text=+) | #823ff1 | rgb(130, 63, 241)  |
 | Markup Tag           | ![#275fe4](https://fakeimg.pl/35/275fe4/?text=+) | #275fe4 | rgb(39, 95, 228)   |
 | Markup Attribute     | ![#df631c](https://fakeimg.pl/35/df631c/?text=+) | #df631c | rgb(223, 99, 28)   |
