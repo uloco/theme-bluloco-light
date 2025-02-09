@@ -2,6 +2,17 @@
 
 ## [unreleased]
 
+## [3.7.4] - 2025-02-09
+
+- Fix hover colors in the status bar for Git and remote SSH
+- Fix RGB for numbers
+- Add sponsor URL
+- Fix rust punctuation colors
+- Improve Grainlang support
+- Improve OCaml highlighting
+- Add missing source
+- Better module color
+
 ## [3.7.3] - 2022-12-26
 
 - Fix wrong terminal colors
