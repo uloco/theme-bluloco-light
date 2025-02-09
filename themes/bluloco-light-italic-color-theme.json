@@ -293,6 +293,8 @@
     "statusBarItem.prominentHoverBackground": "#0099e1",
     "statusBarItem.remoteBackground": "#383a42",
     "statusBarItem.remoteForeground": "#ebebeb",
+    "statusBarItem.remoteHoverBackground": "#444751",
+    "statusBarItem.remoteHoverForeground": "#ebebeb",
     "statusBarItem.warningBackground": "#ffcfab",
     "statusBarItem.warningForeground": "#ff8f3a",
     "symbolIcon.arrayForeground": "#7a82da",
