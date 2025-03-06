@@ -6,6 +6,7 @@
 
 - Fix script tag color
 - Fix italic tab hover color
+- Add logo and new icon
 
 ## [3.7.4] - 2025-02-09
 
