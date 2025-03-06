@@ -377,13 +377,6 @@
   },
   "tokenColors": [
     {
-      "name": "Source",
-      "scope": "source",
-      "settings": {
-        "foreground": "#383a42"
-      }
-    },
-    {
       "name": "Text",
       "scope": "comment.unused.elixir",
       "settings": {
