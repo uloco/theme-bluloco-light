@@ -333,7 +333,7 @@
     "tab.activeBorderTop": "#0099e1",
     "tab.activeForeground": "#383a42",
     "tab.border": "#d5d7d8",
-    "tab.hoverBackground": "#f1f1f1",
+    "tab.hoverBackground": "#f5f5f5",
     "tab.inactiveBackground": "#eeeeee",
     "tab.inactiveForeground": "#a0a1a7",
     "tab.unfocusedActiveBorderTop": "#a0a1a7",
@@ -373,7 +373,6 @@
     "walkThrough.embeddedEditorBackground": "#e8e8e8",
     "widget.shadow": "#a0a1a7"
   },
-
   "tokenColors": [
     {
       "name": "Text",
