@@ -394,9 +394,9 @@
     "modernEditorTab.activeHoverBackground": "#e8e8e8",
 
     "modernActivityBar.background": "#f1f1f1",
-    "modernActivityBar.activeBackground": "#f9f9f9",
+    "modernActivityBar.activeBackground": "#e8e8e8",
     "modernActivityBar.activeForeground": "#383a42",
-    "modernActivityBar.hoverBackground": "#f1f1f1",
+    "modernActivityBar.hoverBackground": "#eeeeee",
     "modernActivityBar.hoverForeground": "#383a42",
 
     "sideBarStickyScroll.background": "#e8e8e8",
