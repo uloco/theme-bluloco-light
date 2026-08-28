@@ -2,6 +2,15 @@
 
 ## [unreleased]
 
+## [3.8.0] - 2026-08-28
+
+- Fix collapse near identical colors
+- Fix different panel and sidebar colors
+- Fix add missing italic schema
+- Fix modern editor tab colors
+- Fix activityBar colors
+- Fix palette images
+
 ## [3.7.5] - 2025-03-06
 
 - Fix script tag color
@@ -328,7 +337,8 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.5...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.8.0...HEAD
+[3.8.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.5...v3.8.0
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
