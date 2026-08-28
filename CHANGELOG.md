@@ -2,6 +2,7 @@
 
 ## [unreleased]
 
+- Fix merge conflict parent colors (#87)
 - Collapse near identical alpha values
 
 ## [3.8.0] - 2026-08-28
