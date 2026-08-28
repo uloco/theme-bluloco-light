@@ -386,12 +386,12 @@
     "modernTab.hoverBackground": "#f1f1f1",
     "modernTab.hoverForeground": "#383a42",
 
-    "modernEditorTab.activeBackground": "#f9f9f9",
+    "modernEditorTab.activeBackground": "#ebebeb",
     "modernEditorTab.activeForeground": "#383a42",
-    "modernEditorTab.inactiveBackground": "#00000000",
-    "modernEditorTab.hoverBackground": "#f1f1f1",
+    "modernEditorTab.inactiveBackground": "#f9f9f9",
+    "modernEditorTab.hoverBackground": "#eeeeee",
     "modernEditorTab.hoverForeground": "#383a42",
-    "modernEditorTab.activeHoverBackground": "#f1f1f1",
+    "modernEditorTab.activeHoverBackground": "#e8e8e8",
 
     "modernActivityBar.background": "#f1f1f1",
     "modernActivityBar.activeBackground": "#f9f9f9",
