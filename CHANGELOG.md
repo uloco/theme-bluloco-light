@@ -2,6 +2,8 @@
 
 ## [unreleased]
 
+- Collapse near identical alpha values
+
 ## [3.8.0] - 2026-08-28
 
 - Fix collapse near identical colors
