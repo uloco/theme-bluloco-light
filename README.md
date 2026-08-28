@@ -25,21 +25,21 @@ I want to keep bluloco a great experience for everybody and your help would be i
 
 ## Syntax Palette
 
-| Scope                | Color                                            | HEX     | RGB                |
-| -------------------- | ------------------------------------------------ | ------- | ------------------ |
-| Background           | ![#f9f9f9](https://fakeimg.pl/35/f9f9f9/?text=+) | #f9f9f9 | rgb(249, 249, 249) |
-| Foreground           | ![#383a42](https://fakeimg.pl/35/383a42/?text=+) | #383a42 | rgb(56, 58, 66)    |
-| Comment              | ![#a0a1a7](https://fakeimg.pl/35/a0a1a7/?text=+) | #a0a1a7 | rgb(160, 161, 167) |
-| Keyword              | ![#0098dd](https://fakeimg.pl/35/0098dd/?text=+) | #0098dd | rgb(0, 152, 221)   |
-| Function/Method      | ![#23974a](https://fakeimg.pl/35/23974a/?text=+) | #23974a | rgb(35, 151, 74)   |
-| Property             | ![#a05a48](https://fakeimg.pl/35/a05a48/?text=+) | #a05a48 | rgb(160, 90, 72)   |
-| String               | ![#c5a332](https://fakeimg.pl/35/c5a332/?text=+) | #c5a332 | rgb(197, 163, 50)  |
-| Number               | ![#ce33c0](https://fakeimg.pl/35/ce33c0/?text=+) | #ce33c0 | rgb(206, 51, 192)  |
-| Constant             | ![#823ff1](https://fakeimg.pl/35/823ff1/?text=+) | #823ff1 | rgb(130, 63, 241)  |
-| Markup Tag           | ![#275fe4](https://fakeimg.pl/35/275fe4/?text=+) | #275fe4 | rgb(39, 95, 228)   |
-| Markup Attribute     | ![#df631c](https://fakeimg.pl/35/df631c/?text=+) | #df631c | rgb(223, 99, 28)   |
-| Class/Type/Interface | ![#d52753](https://fakeimg.pl/35/d52753/?text=+) | #d52753 | rgb(213, 39, 83)   |
-| Operator/Punctuation | ![#7a82da](https://fakeimg.pl/35/7a82da/?text=+) | #7a82da | rgb(122, 130, 218) |
+| Scope                | Color                                                           | HEX     | RGB                |
+| -------------------- | --------------------------------------------------------------- | ------- | ------------------ |
+| Background           | ![#f9f9f9](https://img.shields.io/badge/-_-f9f9f9?style=flat-square) | #f9f9f9 | rgb(249, 249, 249) |
+| Foreground           | ![#383a42](https://img.shields.io/badge/-_-383a42?style=flat-square) | #383a42 | rgb(56, 58, 66)    |
+| Comment              | ![#a0a1a7](https://img.shields.io/badge/-_-a0a1a7?style=flat-square) | #a0a1a7 | rgb(160, 161, 167) |
+| Keyword              | ![#0098dd](https://img.shields.io/badge/-_-0098dd?style=flat-square) | #0098dd | rgb(0, 152, 221)   |
+| Function/Method      | ![#23974a](https://img.shields.io/badge/-_-23974a?style=flat-square) | #23974a | rgb(35, 151, 74)   |
+| Property             | ![#a05a48](https://img.shields.io/badge/-_-a05a48?style=flat-square) | #a05a48 | rgb(160, 90, 72)   |
+| String               | ![#c5a332](https://img.shields.io/badge/-_-c5a332?style=flat-square) | #c5a332 | rgb(197, 163, 50)  |
+| Number               | ![#ce33c0](https://img.shields.io/badge/-_-ce33c0?style=flat-square) | #ce33c0 | rgb(206, 51, 192)  |
+| Constant             | ![#823ff1](https://img.shields.io/badge/-_-823ff1?style=flat-square) | #823ff1 | rgb(130, 63, 241)  |
+| Markup Tag           | ![#275fe4](https://img.shields.io/badge/-_-275fe4?style=flat-square) | #275fe4 | rgb(39, 95, 228)   |
+| Markup Attribute     | ![#df631c](https://img.shields.io/badge/-_-df631c?style=flat-square) | #df631c | rgb(223, 99, 28)   |
+| Class/Type/Interface | ![#d52753](https://img.shields.io/badge/-_-d52753?style=flat-square) | #d52753 | rgb(213, 39, 83)   |
+| Operator/Punctuation | ![#7a82da](https://img.shields.io/badge/-_-7a82da?style=flat-square) | #7a82da | rgb(122, 130, 218) |
 
 ## Screenshots
 
