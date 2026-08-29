@@ -2,8 +2,10 @@
 
 ## [unreleased]
 
+## [3.8.1] - 2026-08-29
+
 - Fix merge conflict parent colors (#87)
-- Collapse near identical alpha values
+- Fix collapse near identical alpha values
 
 ## [3.8.0] - 2026-08-28
 
@@ -340,7 +342,8 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.8.0...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.8.1...HEAD
+[3.8.1]: https://github.com/uloco/theme-bluloco-light/compare/v3.8.0...v3.8.1
 [3.8.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.5...v3.8.0
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
