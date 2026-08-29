@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [3.9.0] - 2026-08-29
+
+- Add gitlens colors
+
 ## [3.8.1] - 2026-08-29
 
 - Fix merge conflict parent colors (#87)
@@ -402,3 +406,6 @@
 [3.7.3]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.2...v3.7.3
 [3.7.4]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.3...v3.7.4
 [3.7.5]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.4...v3.7.5
+[3.8.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.5...v3.8.0
+[3.8.1]: https://github.com/uloco/theme-bluloco-light/compare/v3.8.0...v3.8.1
+[3.9.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.8.1...v3.9.0
