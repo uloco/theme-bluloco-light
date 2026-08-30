@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [3.10.0] - 2026-08-30
+
+- Add semantic token distinctions
+
 ## [3.9.0] - 2026-08-29
 
 - Add gitlens colors
@@ -346,9 +350,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.8.1...HEAD
-[3.8.1]: https://github.com/uloco/theme-bluloco-light/compare/v3.8.0...v3.8.1
-[3.8.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.5...v3.8.0
+[unreleased]: https://github.com/uloco/theme-bluloco-light/compare/v3.10.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-light/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-light/compare/v2.0.0...v2.0.1
@@ -409,3 +411,4 @@
 [3.8.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.7.5...v3.8.0
 [3.8.1]: https://github.com/uloco/theme-bluloco-light/compare/v3.8.0...v3.8.1
 [3.9.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.8.1...v3.9.0
+[3.10.0]: https://github.com/uloco/theme-bluloco-light/compare/v3.9.0...v3.10.0
